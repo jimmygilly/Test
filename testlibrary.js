@@ -1,4 +1,4 @@
 function test(n)
 {
-return 5 * n
+return 8 * n
 }
